@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body {
+    /* background-image: url("../img/pozadina.png"); */
+    font-family: 'Roboto', sans-serif;
+    background-color: #282634;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-pink{
+    background-color: #ff4057;
+}
+
+nav{
+    background-color: #ff4057;
+    /* background-color: white; */
+}
+.card{
+    /* background-color: #ff4057;
+    color:#282634 !important; */
+    background: rgba(255, 255, 255, 0.2);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+}
